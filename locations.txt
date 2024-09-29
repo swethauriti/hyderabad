@@ -7,3 +7,5 @@ cognizant h4
 nawab
 shahgouse
 shadaab
+
+Places & food locations added successfully.
